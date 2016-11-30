@@ -35,7 +35,7 @@ function addItem(item){
 		document.getElementById('newItemWell').appendChild(div);
 	else
 		document.getElementById('itemWell').appendChild(div);
-}
+} 
 
 function orderItem(itemID){
 	// Create a random customer ID and count
